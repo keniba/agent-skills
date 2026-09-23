@@ -31,7 +31,7 @@ In a Claude Code session:
 
 ```text
 /plugin marketplace add keniba/agent-skills
-/plugin install agent-skills@agent-skills
+/plugin install agent-skills@keniba-skills
 ```
 
 ### Codex
@@ -40,7 +40,7 @@ In your terminal:
 
 ```sh
 codex plugin marketplace add keniba/agent-skills
-codex plugin add agent-skills@agent-skills
+codex plugin add agent-skills@keniba-skills
 ```
 
 ## Licence
