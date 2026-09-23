@@ -1,0 +1,16 @@
+{
+  "name": "agent-skills",
+  "owner": {
+    "name": "Khaled Eniba"
+  },
+  "plugins": [
+    {
+      "name": "agent-skills",
+      "source": "./",
+      "description": "Explore options, challenge a decision, and define the work with AI."
+    }
+  ],
+  "metadata": {
+    "description": "Three skills for exploring options, examining decisions and defining work."
+  }
+}

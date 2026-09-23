@@ -1,0 +1,5 @@
+interface:
+  display_name: "set-goal"
+  short_description: "Define an explicit brief before execution"
+policy:
+  allow_implicit_invocation: false

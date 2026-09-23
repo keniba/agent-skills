@@ -1,0 +1,21 @@
+{
+  "name": "agent-skills",
+  "version": "1.0.0",
+  "description": "Explore options, challenge a decision, and define the work with AI.",
+  "author": {
+    "name": "Khaled Eniba",
+    "url": "https://github.com/keniba"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Agent Skills",
+    "shortDescription": "Explore options, challenge decisions, define work.",
+    "longDescription": "Three reusable skills for source-grounded reasoning and human decisions.",
+    "developerName": "Khaled Eniba",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Help me choose a skill for my question."
+  },
+  "repository": "https://github.com/keniba/agent-skills",
+  "license": "MIT"
+}

@@ -1,0 +1,5 @@
+interface:
+  display_name: "brainstorm"
+  short_description: "Develop concrete alternatives with trade-offs"
+policy:
+  allow_implicit_invocation: false

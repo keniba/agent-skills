@@ -1,0 +1,5 @@
+interface:
+  display_name: "pressure-test"
+  short_description: "Examine a proposal and its consequences"
+policy:
+  allow_implicit_invocation: false
